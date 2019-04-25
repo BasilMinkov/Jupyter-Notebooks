@@ -13,6 +13,7 @@ Here I store my Jupyter Notebooks. The Jupyter Notebook App can be launched by c
 2. neuroscience
  - NeurofeedbackEvents
  - HamsterEEG
+ - SpikingNeuronsInH2O2
 
 3. statistics
  - MuSigmaEstimation
