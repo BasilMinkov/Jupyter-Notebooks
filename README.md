@@ -4,7 +4,9 @@ Here I store my Jupyter Notebooks. The Jupyter Notebook App can be launched by c
 
 1. algorithms
  - CubicSplineInterpolation
+ 
  Test of my implementation of cubic spline interpolation numerical method.
+ 
  - EulerMethod
  Test of my implementation of Euler  numerical method.
  - TrapeziumMethod
