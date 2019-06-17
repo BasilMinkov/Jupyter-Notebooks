@@ -1,0 +1,179 @@
+Gene ID,Gene symbol,Description,Scientific name,Common name,RefSeq Transcript accessions,RefSeq Protein accessions,SPARCLE ID,Curation Status,RefseqSelect,Default sequence
+2828,GPR4,G protein-coupled receptor 4,Homo sapiens,human,NM_005282.3,NP_005273.1,11607470,curated,RefseqSelect,default-seq
+308408,Gpr4,G protein-coupled receptor 4,Rattus norvegicus,Norway rat,NM_001025680.1,NP_001020851.1,11607470,curated,,default-seq
+319197,Gpr4,G protein-coupled receptor 4,Mus musculus,house mouse,NM_175668.4,NP_783599.1,11607470,curated,,default-seq
+468922,GPR4,G protein-coupled receptor 4,Pan troglodytes,chimpanzee,NM_001242410.1,NP_001229339.1,11607470,curated,,default-seq
+484440,GPR4,G protein-coupled receptor 4,Canis lupus familiaris,dog,XM_005616440.3,XP_005616497.1,11607470,model,,default-seq
+512876,GPR4,G protein-coupled receptor 4,Bos taurus,cattle,NM_001075583.1,NP_001069051.1,11607470,curated,,default-seq
+716148,GPR4,G protein-coupled receptor 4,Macaca mulatta,Rhesus monkey,XM_001106715.4,XP_001106715.2,11607470,model,,default-seq
+100011451,GPR4,G protein-coupled receptor 4,Monodelphis domestica,gray short-tailed opossum,XM_007492138.2,XP_007492200.1,11607470,model,,default-seq
+100144489,GPR4,G protein-coupled receptor 4,Sus scrofa,pig,XM_021093217.1,XP_020948876.1,11607470,model,,default-seq
+100347205,GPR4,G protein-coupled receptor 4,Oryctolagus cuniculus,rabbit,XM_008252221.2,XP_008250443.1,11607470,model,,default-seq
+100409717,GPR4,G protein-coupled receptor 4,Callithrix jacchus,white-tufted-ear marmoset,XM_002762244.4,XP_002762290.1,11607470,model,,default-seq
+100431608,GPR4,G protein-coupled receptor 4,Pongo abelii,Sumatran orangutan,XM_009232781.2,XP_009231056.2,11607470,model,,default-seq
+100476261,GPR4,G protein-coupled receptor 4,Ailuropoda melanoleuca,giant panda,XM_011236382.2,XP_011234684.1,11607470,model,,default-seq
+100490705,gpr4,G protein-coupled receptor 4,Xenopus tropicalis,tropical clawed frog,XM_004916955.3,XP_004917012.1,11607470,model,,default-seq
+100554786,gpr4,G protein-coupled receptor 4,Anolis carolinensis,green anole,XM_003229852.3,XP_003229900.1,11607470,model,,default-seq
+100604283,GPR4,G protein-coupled receptor 4,Nomascus leucogenys,northern white-cheeked gibbon,XM_003277584.1,XP_003277632.1,11607470,model,,default-seq
+100675637,GPR4,G protein-coupled receptor 4,Loxodonta africana,African savanna elephant,XM_010586459.2,XP_010584761.2,11607470,model,,default-seq
+100704561,gpr4,G protein-coupled receptor 4,Oreochromis niloticus,Nile tilapia,XM_003456386.5,XP_003456434.2,11607470,model,,default-seq
+100931132,GPR4,G protein-coupled receptor 4,Sarcophilus harrisii,Tasmanian devil,XM_012545763.2,XP_012401217.1,11607470,model,,default-seq
+100961369,GPR4,G protein-coupled receptor 4,Otolemur garnettii,small-eared galago,XM_003799516.3,XP_003799564.1,11607470,model,,default-seq
+100987218,GPR4,G protein-coupled receptor 4,Pan paniscus,pygmy chimpanzee,XM_003817516.1,XP_003817564.1,11607470,model,,default-seq
+101000371,GPR4,G protein-coupled receptor 4,Papio anubis,olive baboon,XM_003915727.2,XP_003915776.1,11607470,model,,default-seq
+101050710,GPR4,G protein-coupled receptor 4,Saimiri boliviensis,Bolivian squirrel monkey,XM_003940253.2,XP_003940302.1,11607470,model,,default-seq
+101075682,gpr4,G protein-coupled receptor 4,Takifugu rubripes,torafugu,XM_003968691.2,XP_003968740.2,11607470,model,,default-seq
+101113876,GPR4,G protein-coupled receptor 4,Ovis aries,sheep,XM_015100600.2,XP_014956086.2,11607470,model,,default-seq
+101137585,GPR4,G protein-coupled receptor 4,Gorilla gorilla,western gorilla,XM_019015550.1,XP_018871095.1,11607470,model,,default-seq
+101161819,gpr4,G protein-coupled receptor 4,Oryzias latipes,Japanese medaka,XM_011482224.3,XP_011480526.1,11607470,model,,default-seq
+101285600,GPR4,G protein-coupled receptor 4,Orcinus orca,killer whale,XM_004271160.2,XP_004271208.1,11607470,model,,default-seq
+101332045,GPR4,G protein-coupled receptor 4,Tursiops truncatus,common bottlenose dolphin,XM_004318207.2,XP_004318255.2,,model,,default-seq
+101356138,LOC101356138,G protein-coupled receptor 4,Trichechus manatus latirostris,Florida manatee,XM_004381582.2,XP_004381639.1,11607470,model,,default-seq
+101377773,GPR4,G protein-coupled receptor 4,Odobenus rosmarus divergens,Pacific walrus,XM_004400970.2,XP_004401027.1,11607470,model,,default-seq
+101398222,LOC101398222,G protein-coupled receptor 4,Ceratotherium simum simum,southern white rhinoceros,XM_004440158.2,XP_004440215.1,11607470,model,,default-seq
+101442077,GPR4,G protein-coupled receptor 4,Dasypus novemcinctus,nine-banded armadillo,XM_023585501.1,XP_023441269.1,11607470,model,,default-seq
+101480752,gpr4,G protein-coupled receptor 4,Maylandia zebra,zebra mbuna,XM_004569594.2,XP_004569651.2,11607470,model,,default-seq
+101519967,GPR4,G protein-coupled receptor 4,Ochotona princeps,American pika,XM_004597939.2,XP_004597996.1,11607470,model,,default-seq
+101539585,GPR4,G protein-coupled receptor 4,Sorex araneus,European shrew,XM_004607814.1,XP_004607871.1,11607470,model,,default-seq
+101584236,Gpr4,G protein-coupled receptor 4,Octodon degus,degu,XM_023704601.1,XP_023560369.1,11607470,model,,default-seq
+101601810,Gpr4,G protein-coupled receptor 4,Jaculus jaculus,lesser Egyptian jerboa,XM_004672955.1,XP_004673012.1,11607470,model,,default-seq
+101635035,GPR4,G protein-coupled receptor 4,Condylura cristata,star-nosed mole,XM_004694203.2,XP_004694260.1,11607470,model,,default-seq
+101661738,GPR4,G protein-coupled receptor 4,Echinops telfairi,small Madagascar hedgehog,XM_004710385.2,XP_004710442.1,11607470,model,,default-seq
+101688240,GPR4,G protein-coupled receptor 4,Mustela putorius furo,domestic ferret,XM_004767578.2,XP_004767635.1,11607470,model,,default-seq
+101707568,Gpr4,G protein-coupled receptor 4,Heterocephalus glaber,naked mole-rat,XM_004867144.3,XP_004867201.1,11607470,model,,default-seq
+101838647,Gpr4,G protein-coupled receptor 4,Mesocricetus auratus,golden hamster,XM_005088502.3,XP_005088559.1,11607470,model,,default-seq
+101950675,GPR4,G protein-coupled receptor 4,Chrysemys picta,painted turtle,XM_005313959.2,XP_005314016.1,11607470,model,,default-seq
+101974331,Gpr4,G protein-coupled receptor 4,Ictidomys tridecemlineatus,thirteen-lined ground squirrel,XM_021735204.1,XP_021590879.1,11607470,model,,default-seq
+101980507,Gpr4,G protein-coupled receptor 4,Microtus ochrogaster,prairie vole,XM_005370274.2,XP_005370331.1,11607470,model,,default-seq
+102014400,Gpr4,G protein-coupled receptor 4,Chinchilla lanigera,long-tailed chinchilla,XM_005413788.2,XP_005413845.1,11607470,model,,default-seq
+102121999,GPR4,G protein-coupled receptor 4,Macaca fascicularis,crab-eating macaque,XM_005589599.2,XP_005589656.1,11607470,model,,default-seq
+102148705,GPR4,G protein-coupled receptor 4,Equus caballus,horse,XM_014729383.2,XP_014584869.2,11607470,model,,default-seq
+102172185,GPR4,G protein-coupled receptor 4,Capra hircus,goat,XM_018062612.1,XP_017918101.1,11607470,model,,default-seq
+102206800,gpr4,G protein-coupled receptor 4,Pundamilia nyererei,,XM_005745009.1,XP_005745066.1,11607470,model,,default-seq
+102242422,GPR4,G protein-coupled receptor 4,Myotis brandtii,Brandt's bat,XM_005863413.2,XP_005863475.1,11607470,model,,default-seq
+102281824,GPR4,G protein-coupled receptor 4,Bos mutus,wild yak,XM_005900329.2,XP_005900391.1,11607470,model,,default-seq
+102295395,gpr4,G protein-coupled receptor 4,Haplochromis burtoni,Burton's mouthbrooder,XM_005932592.1,XP_005932654.1,11607470,model,,default-seq
+102333424,GPR4,G protein-coupled receptor 4,Pantholops hodgsonii,chiru,XM_005962329.1,XP_005962391.1,11607470,model,,default-seq
+102349809,GPR4,G protein-coupled receptor 4,Latimeria chalumnae,coelacanth,XM_005991579.2,XP_005991641.1,11607470,model,,default-seq
+102376812,GPR4,G protein-coupled receptor 4,Alligator sinensis,Chinese alligator,XM_006032554.1,XP_006032616.1,,model,,default-seq
+102390354,GPR4,G protein-coupled receptor 4,Bubalus bubalis,water buffalo,XM_025269334.1,XP_025125119.1,11607470,model,,default-seq
+102442847,GPR4,G protein-coupled receptor 4,Myotis lucifugus,little brown bat,XM_006106419.3,XP_006106481.2,,model,,default-seq
+102496327,GPR4,G protein-coupled receptor 4,Tupaia chinensis,Chinese tree shrew,XM_027766984.1,XP_027622785.1,11607470,model,,default-seq
+102505353,GPR4,G protein-coupled receptor 4,Camelus ferus,Wild Bactrian camel,XM_014554836.1,XP_014410322.1,11607470,model,,default-seq
+102539835,GPR4,G protein-coupled receptor 4,Vicugna pacos,alpaca,XM_015242959.1,XP_015098445.1,11607470,model,,default-seq
+102574696,GPR4,G protein-coupled receptor 4,Alligator mississippiensis,American alligator,XM_006265797.3,XP_006265859.1,11607470,model,,default-seq
+102684907,gpr4,G protein-coupled receptor 4,Lepisosteus oculatus,spotted gar,XM_015341085.1,XP_015196571.1,11607470,model,,default-seq
+102727826,GPR4,G protein-coupled receptor 4,Leptonychotes weddellii,Weddell seal,XM_006738509.1,XP_006738572.1,11607470,model,,default-seq
+102766440,GPR4,G protein-coupled receptor 4,Myotis davidii,,XM_006764405.2,XP_006764468.1,11607470,model,,default-seq
+102838881,GPR4,G protein-coupled receptor 4,Chrysochloris asiatica,Cape golden mole,XM_006871331.1,XP_006871393.1,11607470,model,,default-seq
+102851673,GPR4,G protein-coupled receptor 4,Elephantulus edwardii,Cape elephant shrew,XM_006901238.1,XP_006901300.1,11607470,model,,default-seq
+102893580,GPR4,G protein-coupled receptor 4,Pteropus alecto,black flying fox,XM_006911805.3,XP_006911867.1,11607470,model,,default-seq
+102917300,Gpr4,G protein-coupled receptor 4,Peromyscus maniculatus bairdii,prairie deer mouse,XM_006993746.2,XP_006993808.1,11607470,model,,default-seq
+102930606,GPR4,G protein-coupled receptor 4,Chelonia mydas,Green sea turtle,XM_027832470.1,XP_027688271.1,11607470,model,,default-seq
+102969145,GPR4,G protein-coupled receptor 4,Panthera tigris altaica,Amur tiger,XM_007097317.2,XP_007097379.1,11607470,model,,default-seq
+102983785,GPR4,G protein-coupled receptor 4,Physeter catodon,sperm whale,XM_024132651.2,XP_023988419.1,11607470,model,,default-seq
+103013579,GPR4,G protein-coupled receptor 4,Balaenoptera acutorostrata scammoni,,XM_007168149.2,XP_007168211.1,11607470,model,,default-seq
+103049411,GPR4,G protein-coupled receptor 4,Python bivittatus,Burmese python,XM_007430795.3,XP_007430857.1,11607470,model,,default-seq
+103073232,GPR4,G protein-coupled receptor 4,Lipotes vexillifer,Yangtze River dolphin,XM_007458516.1,XP_007458578.1,11607470,model,,default-seq
+103121676,GPR4,G protein-coupled receptor 4,Erinaceus europaeus,western European hedgehog,XM_007532203.2,XP_007532265.1,11607470,model,,default-seq
+103138287,gpr4,G protein-coupled receptor 4,Poecilia formosa,Amazon molly,XM_007552424.2,XP_007552486.1,11607470,model,,default-seq
+103174300,gpr4,G protein-coupled receptor 4,Callorhinchus milii,elephant shark,XM_007886736.1,XP_007884927.1,11607470,model,,default-seq
+103198711,GPR4,G protein-coupled receptor 4,Orycteropus afer afer,,XM_007942902.1,XP_007941093.1,11607470,model,,default-seq
+103234871,GPR4,G protein-coupled receptor 4,Chlorocebus sabaeus,green monkey,XM_007997234.1,XP_007995425.1,11607470,model,,default-seq
+103268826,GPR4,G protein-coupled receptor 4,Carlito syrichta,Philippine tarsier,XM_008066423.1,XP_008064614.1,11607470,model,,default-seq
+103301381,GPR4,G protein-coupled receptor 4,Eptesicus fuscus,big brown bat,XM_008158340.2,XP_008156562.1,11607470,model,,default-seq
+103377876,gpr4,G protein-coupled receptor 4,Cynoglossus semilaevis,tongue sole,XM_017031846.2,XP_016887335.1,11607470,model,,default-seq
+103566351,GPR4,G protein-coupled receptor 4,Equus przewalskii,Przewalski's horse,XM_008542729.1,XP_008540951.1,11607470,model,,default-seq
+103594531,GPR4,G protein-coupled receptor 4,Galeopterus variegatus,Sunda flying lemur,XM_008577759.1,XP_008575981.1,11607470,model,,default-seq
+103657191,GPR4,G protein-coupled receptor 4,Ursus maritimus,polar bear,XM_008684613.1,XP_008682835.1,11607470,model,,default-seq
+103749198,Gpr4,G protein-coupled receptor 4,Nannospalax galili,Upper Galilee mountains blind mole rat,XM_008852042.2,XP_008850264.1,11607470,model,,default-seq
+104673436,GPR4,G protein-coupled receptor 4,Rhinopithecus roxellana,golden snub-nosed monkey,XM_010377471.1,XP_010375773.1,11607470,model,,default-seq
+104855687,Gpr4,G protein-coupled receptor 4,Fukomys damarensis,Damara mole-rat,XM_010614611.2,XP_010612913.1,11607470,model,,default-seq
+104927795,gpr4,G protein-coupled receptor 4,Larimichthys crocea,large yellow croaker,XM_019271432.2,XP_019126977.1,11607470,model,,default-seq
+104997705,GPR4,G protein-coupled receptor 4,Bison bison bison,,XM_010852606.1,XP_010850908.1,11607470,model,,default-seq
+105006865,gpr4,G protein-coupled receptor 4,Esox lucius,northern pike,XM_010865571.2,XP_010863873.1,11607470,model,,default-seq
+105062525,GPR4,G protein-coupled receptor 4,Camelus bactrianus,Bactrian camel,XM_010946821.1,XP_010945123.1,11607470,model,,default-seq
+105095444,GPR4,G protein-coupled receptor 4,Camelus dromedarius,Arabian camel,XM_010987580.1,XP_010985882.1,11607470,model,,default-seq
+105297340,GPR4,G protein-coupled receptor 4,Pteropus vampyrus,large flying fox,XM_011367947.2,XP_011366249.1,11607470,model,,default-seq
+105478553,GPR4,G protein-coupled receptor 4,Macaca nemestrina,pig-tailed macaque,XM_011735976.2,XP_011734278.1,11607470,model,,default-seq
+105526881,GPR4,G protein-coupled receptor 4,Colobus angolensis palliatus,,XM_011962989.1,XP_011818379.1,11607470,model,,default-seq
+105535862,GPR4,G protein-coupled receptor 4,Mandrillus leucophaeus,drill,XM_011975112.1,XP_011830502.1,11607470,model,,default-seq
+105595155,GPR4,G protein-coupled receptor 4,Cercocebus atys,sooty mangabey,XM_012080545.1,XP_011935935.1,11607470,model,,default-seq
+105713070,GPR4,G protein-coupled receptor 4,Aotus nancymaae,Ma's night monkey,XM_012446588.1,XP_012302011.1,11607470,model,,default-seq
+105817592,GPR4,G protein-coupled receptor 4,Propithecus coquereli,Coquerel's sifaka,XM_012653323.1,XP_012508777.1,11607470,model,,default-seq
+105869535,GPR4,G protein-coupled receptor 4,Microcebus murinus,gray mouse lemur,XM_012761417.2,XP_012616871.1,11607470,model,,default-seq
+105997995,Gpr4,G protein-coupled receptor 4,Dipodomys ordii,Ord's kangaroo rat,XM_013032590.1,XP_012888044.1,11607470,model,,default-seq
+106026434,Gpr4,G protein-coupled receptor 4,Cavia porcellus,domestic guinea pig,XM_013146800.2,XP_013002254.1,,model,,default-seq
+106530349,gpr4,G protein-coupled receptor 4,Austrofundulus limnaeus,,XM_014025945.1,XP_013881399.1,11607470,model,,default-seq
+106843762,GPR4,G protein-coupled receptor 4,Equus asinus,ass,XM_014860940.1,XP_014716426.1,11607470,model,,default-seq
+106922249,gpr4,G protein-coupled receptor 4,Poecilia mexicana,,XM_014994547.1,XP_014850033.1,11607470,model,,default-seq
+106947727,gpr4,G protein-coupled receptor 4,Poecilia latipinna,sailfin molly,XM_015032923.1,XP_014888409.1,11607470,model,,default-seq
+106973643,GPR4,G protein-coupled receptor 4,Acinonyx jubatus,cheetah,XM_027037813.1,XP_026893614.1,11607470,model,,default-seq
+107120195,GPR4,G protein-coupled receptor 4,Gekko japonicus,,XM_015422842.1,XP_015278328.1,,model,,default-seq
+107151345,Gpr4,G protein-coupled receptor 4,Marmota marmota marmota,Alpine marmot,XM_015496699.1,XP_015352185.1,11607470,model,,default-seq
+107291639,GPR4,G protein-coupled receptor 4,Protobothrops mucrosquamatus,,XM_029284982.1,XP_029140815.1,,model,,default-seq
+107516048,GPR4,G protein-coupled receptor 4,Rousettus aegyptiacus,Egyptian rousette,XM_016155447.1,XP_016010933.1,11607470,model,,default-seq
+107536772,GPR4,G protein-coupled receptor 4,Miniopterus natalensis,,XM_016212599.1,XP_016068085.1,11607470,model,,default-seq
+107547062,GPR4,G protein-coupled receptor 4,Ornithorhynchus anatinus,platypus,XM_016225762.2,XP_016081248.2,,model,,default-seq
+107589754,gpr4,G protein-coupled receptor 4,Sinocyclocheilus grahami,,XM_016278276.1,XP_016133762.1,11607470,model,,default-seq
+108248385,gpr4,G protein-coupled receptor 4,Kryptolebias marmoratus,mangrove rivulus,XM_017437143.2,XP_017292632.1,11607470,model,,default-seq
+108285356,GPR4,G protein-coupled receptor 4,Cebus capucinus imitator,,XM_017502491.1,XP_017357980.1,11607470,model,,default-seq
+108392086,GPR4,G protein-coupled receptor 4,Manis javanica,Malayan pangolin,XM_017652082.1,XP_017507571.1,11607470,model,,default-seq
+108440355,gpr4,G protein-coupled receptor 4,Pygocentrus nattereri,red-bellied piranha,XM_017719186.1,XP_017574675.1,11607470,model,,default-seq
+108531040,GPR4,G protein-coupled receptor 4,Rhinopithecus bieti,black snub-nosed monkey,XM_017874274.1,XP_017729763.1,11607470,model,,default-seq
+108928688,gpr4,G protein-coupled receptor 4,Scleropages formosus,Asian bonytongue,XM_018742742.1,XP_018598258.1,11607470,model,,default-seq
+109253227,GPR4,G protein-coupled receptor 4,Panthera pardus,leopard,XM_019425983.1,XP_019281528.1,11607470,model,,default-seq
+109374699,GPR4,G protein-coupled receptor 4,Hipposideros armiger,great roundleaf bat,XM_019629469.1,XP_019485014.1,11607470,model,,default-seq
+109510795,gpr4,G protein-coupled receptor 4,Hippocampus comes,tiger tail seahorse,XM_019861385.1,XP_019716944.1,11607470,model,,default-seq
+109572980,GPR4,G protein-coupled receptor 4,Bos indicus,zebu cattle,XM_019980168.1,XP_019835727.1,11607470,model,,default-seq
+109630012,gpr4,G protein-coupled receptor 4,Paralichthys olivaceus,Japanese flounder,XM_020088013.1,XP_019943572.1,11607470,model,,default-seq
+109692379,Gpr4,G protein-coupled receptor 4,Castor canadensis,American beaver,XM_020172938.1,XP_020028527.1,11607470,model,,default-seq
+109924374,gpr4,G protein-coupled receptor 4,Rhincodon typus,whale shark,XM_020524377.1,XP_020379966.1,11607470,model,,default-seq
+109963224,gpr4,G protein-coupled receptor 4,Monopterus albus,swamp eel,XM_020605573.1,XP_020461229.1,11607470,model,,default-seq
+110075750,GPR4,G protein-coupled receptor 4,Pogona vitticeps,central bearded dragon,XM_020787260.1,XP_020642919.1,11607470,model,,default-seq
+110139931,GPR4,G protein-coupled receptor 4,Odocoileus virginianus texanus,,XM_020898123.1,XP_020753782.1,11607470,model,,default-seq
+110203324,GPR4,G protein-coupled receptor 4,Phascolarctos cinereus,koala,XM_020979787.1,XP_020835446.1,11607470,model,,default-seq
+110298610,Gpr4,G protein-coupled receptor 4,Mus caroli,Ryukyu mouse,XM_021167955.1,XP_021023614.1,11607470,model,,default-seq
+110336910,Gpr4,G protein-coupled receptor 4,Mus pahari,shrew mouse,XM_021219651.1,XP_021075310.1,11607470,model,,default-seq
+110551493,Gpr4,G protein-coupled receptor 4,Meriones unguiculatus,Mongolian gerbil,XM_021642129.1,XP_021497804.1,11607470,model,,default-seq
+110572773,GPR4,G protein-coupled receptor 4,Neomonachus schauinslandi,Hawaiian monk seal,XM_021681161.1,XP_021536836.1,11607470,model,,default-seq
+110951203,gpr4,G protein-coupled receptor 4,Acanthochromis polyacanthus,spiny chromis,XM_022194160.1,XP_022049852.1,11607470,model,,default-seq
+111160737,LOC111160737,G protein-coupled receptor 4,Enhydra lutris kenyoni,,XM_022524064.1,XP_022379772.1,11607470,model,,default-seq
+111180468,GPR4,G protein-coupled receptor 4,Delphinapterus leucas,beluga whale,XM_022584857.1,XP_022440565.1,11607470,model,,default-seq
+111216989,gpr4,G protein-coupled receptor 4,Seriola dumerili,greater amberjack,XM_022738674.1,XP_022594395.1,11607470,model,,default-seq
+111519985,GPR4,G protein-coupled receptor 4,Piliocolobus tephrosceles,Ugandan red Colobus,XM_023182361.1,XP_023038129.1,11607470,model,,default-seq
+111556188,GPR4,G protein-coupled receptor 4,Felis catus,domestic cat,XM_023245540.1,XP_023101308.1,11607470,model,,default-seq
+111583229,gpr4,G protein-coupled receptor 4,Amphiprion ocellaris,clown anemonefish,XM_023292211.1,XP_023147979.1,11607470,model,,default-seq
+111662212,gpr4,G protein-coupled receptor 4,Seriola lalandi dorsalis,,XM_023416004.1,XP_023271772.1,11607470,model,,default-seq
+111949726,gpr4,G protein-coupled receptor 4,Salvelinus alpinus,Arctic char,XM_023967076.1,XP_023822844.1,11607470,model,,default-seq
+112312948,GPR4,G protein-coupled receptor 4,Desmodus rotundus,common vampire bat,XM_024569546.1,XP_024425314.1,11607470,model,,default-seq
+112415243,GPR4,G protein-coupled receptor 4,Neophocaena asiaeorientalis asiaeorientalis,Yangtze finless porpoise,XM_024768119.1,XP_024623887.1,11607470,model,,default-seq
+112612369,GPR4,G protein-coupled receptor 4,Theropithecus gelada,gelada,XM_025366810.1,XP_025222595.1,11607470,model,,default-seq
+112645292,GPR4,G protein-coupled receptor 4,Canis lupus dingo,dingo,XM_025424637.1,XP_025280422.1,11607470,model,,default-seq
+112807156,GPR4,G protein-coupled receptor 4,Callorhinus ursinus,northern fur seal,XM_025849862.1,XP_025705647.1,11607470,model,,default-seq
+112850730,GPR4,G protein-coupled receptor 4,Puma concolor,puma,XM_025914261.1,XP_025770046.1,11607470,model,,default-seq
+112931361,GPR4,G protein-coupled receptor 4,Vulpes vulpes,red fox,XM_026014017.1,XP_025869802.1,11607470,model,,default-seq
+113036194,gpr4,G protein-coupled receptor 4,Astatotilapia calliptera,eastern happy,XM_026192352.1,XP_026048137.1,11607470,model,,default-seq
+113121840,gpr4,G protein-coupled receptor 4,Mastacembelus armatus,zig-zag eel,XM_026292678.1,XP_026148463.1,11607470,model,,default-seq
+113193339,Gpr4,G protein-coupled receptor 4,Urocitellus parryii,Arctic ground squirrel,XM_026403810.1,XP_026259595.1,11607470,model,,default-seq
+113243422,GPR4,G protein-coupled receptor 4,Ursus arctos horribilis,,XM_026482041.1,XP_026337826.1,11607470,model,,default-seq
+113426475,GPR4,G protein-coupled receptor 4,Notechis scutatus,mainland tiger snake,XM_026688845.1,XP_026544630.1,11607470,model,,default-seq
+113450273,GPR4,G protein-coupled receptor 4,Pseudonaja textilis,,XM_026721437.1,XP_026577222.1,11607470,model,,default-seq
+113533097,gpr4,G protein-coupled receptor 4,Pangasianodon hypophthalmus,striped catfish,XM_026924959.1,XP_026780760.1,11607470,model,,default-seq
+113606025,GPR4,G protein-coupled receptor 4,Lagenorhynchus obliquidens,Pacific white-sided dolphin,XM_027079875.1,XP_026935676.1,11607470,model,,default-seq
+113876335,GPR4,G protein-coupled receptor 4,Bos indicus x Bos taurus,hybrid cattle,XM_027515452.1,XP_027371253.1,11607470,model,,default-seq
+113935732,GPR4,G protein-coupled receptor 4,Zalophus californianus,California sea lion,XM_027618107.1,XP_027473908.1,11607470,model,,default-seq
+114100985,Gpr4,G protein-coupled receptor 4,Marmota flaviventris,yellow-bellied marmot,XM_027945860.1,XP_027801661.1,11607470,model,,default-seq
+114133522,gpr4,G protein-coupled receptor 4,Xiphophorus couchianus,Monterrey platyfish,XM_027999510.1,XP_027855311.1,11607470,model,,default-seq
+114197214,GPR4,G protein-coupled receptor 4,Eumetopias jubatus,Steller sea lion,XM_028088178.1,XP_027943979.1,11607470,model,,default-seq
+114445462,gpr4,G protein-coupled receptor 4,Parambassis ranga,Indian glassy fish,XM_028420538.1,XP_028276339.1,11607470,model,,default-seq
+114474361,gpr4,G protein-coupled receptor 4,Gouania willdenowi,blunt-snouted clingfish,XM_028464618.1,XP_028320419.1,11607470,model,,default-seq
+114511331,GPR4,G protein-coupled receptor 4,Phyllostomus discolor,pale spear-nosed bat,XM_028530038.1,XP_028385839.1,11607470,model,,default-seq
+114552558,gpr4,G protein-coupled receptor 4,Perca flavescens,yellow perch,XM_028573453.1,XP_028429254.1,11607470,model,,default-seq
+114603127,GPR4,G protein-coupled receptor 4,Podarcis muralis,common wall lizard,XM_028741902.1,XP_028597735.1,11607470,model,,default-seq
+114630456,Gpr4,G protein-coupled receptor 4,Grammomys surdaster,,XM_028778691.1,XP_028634524.1,11607470,model,,default-seq
+114668819,gpr4,G protein-coupled receptor 4,Erpetoichthys calabaricus,reedfish,XM_028824779.1,XP_028680612.1,11607470,model,,default-seq
+114709887,Gpr4,G protein-coupled receptor 4,Peromyscus leucopus,white-footed mouse,XM_028893883.1,XP_028749716.1,11607470,model,,default-seq
+114868398,gpr4,G protein-coupled receptor 4,Betta splendens,Siamese fighting fish,XM_029171933.1,XP_029027766.1,,model,,default-seq
+114907815,GPR4,G protein-coupled receptor 4,Monodon monoceros,narwhal,XM_029243820.1,XP_029099653.1,,model,,default-seq
+115018289,gpr4,G protein-coupled receptor 4,Cottoperca gobio,,XM_029447229.1,XP_029303089.1,,model,,default-seq

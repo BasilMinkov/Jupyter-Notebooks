@@ -1,0 +1,130 @@
+Gene ID,Gene symbol,Description,Scientific name,Common name,RefSeq Transcript accessions,RefSeq Protein accessions,SPARCLE ID,Curation Status,RefseqSelect,Default sequence
+27198,HCAR1,hydroxycarboxylic acid receptor 1,Homo sapiens,human,NM_032554.4,NP_115943.1,11606942,curated,RefseqSelect,default-seq
+243270,Hcar1,hydrocarboxylic acid receptor 1,Mus musculus,house mouse,NM_175520.4,NP_780729.2,11606942,curated,,default-seq
+452331,HCAR1,hydroxycarboxylic acid receptor 1,Pan troglodytes,chimpanzee,NM_001246635.1,NP_001233564.1,11606942,curated,,default-seq
+486252,HCAR1,hydroxycarboxylic acid receptor 1,Canis lupus familiaris,dog,NM_001145231.1,NP_001138703.1,11606942,curated,,default-seq
+538759,HCAR1,hydroxycarboxylic acid receptor 1,Bos taurus,cattle,NM_001145234.1,NP_001138706.1,11606942,curated,,default-seq
+689936,Gpr81,G protein-coupled receptor 81,Rattus norvegicus,Norway rat,NM_001145334.1,NP_001138806.1,11606942,curated,,default-seq
+702825,HCAR1,hydroxycarboxylic acid receptor 1,Macaca mulatta,Rhesus monkey,NM_001145254.2,NP_001138726.2,11606942,curated,,default-seq
+100022345,HCAR1,hydroxycarboxylic acid receptor 1,Monodelphis domestica,gray short-tailed opossum,XM_001374185.3,XP_001374222.1,,model,,default-seq
+100060403,HCAR1,hydroxycarboxylic acid receptor 1,Equus caballus,horse,XM_014727600.2,XP_014583086.1,11606942,model,,default-seq
+100153287,HCAR1,hydroxycarboxylic acid receptor 1,Sus scrofa,pig,NM_001145381.1,NP_001138853.1,11606942,curated,,default-seq
+100345808,HCAR1,hydroxycarboxylic acid receptor 1,Oryctolagus cuniculus,rabbit,XM_008250523.2,XP_008248745.1,,model,,default-seq
+100408428,HCAR1,hydroxycarboxylic acid receptor 1,Callithrix jacchus,white-tufted-ear marmoset,XM_002753127.3,XP_002753173.1,11606942,model,,default-seq
+100442224,HCAR1,hydroxycarboxylic acid receptor 1,Pongo abelii,Sumatran orangutan,XM_024257064.1,XP_024112832.1,11606942,model,,default-seq
+100469652,HCAR1,hydroxycarboxylic acid receptor 1,Ailuropoda melanoleuca,giant panda,XM_019801164.1,XP_019656723.1,11606942,model,,default-seq
+100579911,HCAR1,hydroxycarboxylic acid receptor 1,Nomascus leucogenys,northern white-cheeked gibbon,XM_003280706.3,XP_003280754.1,11606942,model,,default-seq
+100664784,HCAR1,hydroxycarboxylic acid receptor 1,Loxodonta africana,African savanna elephant,XM_010599841.2,XP_010598143.1,11606942,model,,default-seq
+100712976,Hcar1,hydroxycarboxylic acid receptor 1,Cavia porcellus,domestic guinea pig,XM_013144777.2,XP_013000231.1,,model,,default-seq
+100766347,Hcar1,hydroxycarboxylic acid receptor 1,Cricetulus griseus,Chinese hamster,XM_007652908.3,XP_007651098.1,11606942,model,,default-seq
+100930681,HCAR1,hydroxycarboxylic acid receptor 1,Sarcophilus harrisii,Tasmanian devil,XM_003761068.2,XP_003761116.1,11606942,model,,default-seq
+100964388,HCAR1,hydroxycarboxylic acid receptor 1,Otolemur garnettii,small-eared galago,XM_003796014.3,XP_003796062.1,11606942,model,,default-seq
+100986073,HCAR1,hydroxycarboxylic acid receptor 1,Pan paniscus,pygmy chimpanzee,XM_003812129.3,XP_003812177.1,11606942,model,,default-seq
+101004492,HCAR1,hydroxycarboxylic acid receptor 1,Papio anubis,olive baboon,XM_003907319.4,XP_003907368.1,11606942,model,,default-seq
+101038868,HCAR1,hydroxycarboxylic acid receptor 1,Saimiri boliviensis,Bolivian squirrel monkey,XM_003932150.2,XP_003932199.1,11606942,model,,default-seq
+101119758,HCAR1,hydroxycarboxylic acid receptor 1,Ovis aries,sheep,XM_027956456.1,XP_027812257.1,11606942,model,,default-seq
+101130464,HCAR1,hydroxycarboxylic acid receptor 1,Gorilla gorilla,western gorilla,XM_019038694.1,XP_018894239.1,11606942,model,,default-seq
+101274127,HCAR1,hydroxycarboxylic acid receptor 1,Orcinus orca,killer whale,XM_004286868.2,XP_004286916.2,11606942,model,,default-seq
+101321133,HCAR1,hydroxycarboxylic acid receptor 1,Tursiops truncatus,common bottlenose dolphin,XM_019950434.1,XP_019805993.1,11606942,model,,default-seq
+101352477,LOC101352477,hydroxycarboxylic acid receptor 1,Trichechus manatus latirostris,Florida manatee,XM_004391326.2,XP_004391383.2,11606942,model,,default-seq
+101376108,HCAR1,hydroxycarboxylic acid receptor 1,Odobenus rosmarus divergens,Pacific walrus,XM_004395897.2,XP_004395954.1,11606942,model,,default-seq
+101402018,LOC101402018,hydroxycarboxylic acid receptor 1,Ceratotherium simum simum,southern white rhinoceros,XM_014787149.1,XP_014642635.1,11606942,model,,default-seq
+101444372,HCAR1,hydroxycarboxylic acid receptor 1,Dasypus novemcinctus,nine-banded armadillo,XM_004484978.3,XP_004485035.3,11606942,model,,default-seq
+101535722,HCAR1,hydroxycarboxylic acid receptor 1,Ochotona princeps,American pika,XM_004595402.1,XP_004595459.1,11606942,model,,default-seq
+101543042,HCAR1,hydroxycarboxylic acid receptor 1,Sorex araneus,European shrew,XM_012933294.1,XP_012788748.1,11606942,model,,default-seq
+101573222,Hcar1,hydroxycarboxylic acid receptor 1,Octodon degus,degu,XM_012515727.2,XP_012371181.2,,model,,default-seq
+101602843,Hcar1,hydroxycarboxylic acid receptor 1,Jaculus jaculus,lesser Egyptian jerboa,XM_004673237.2,XP_004673294.2,11606942,model,,default-seq
+101628724,HCAR1,hydroxycarboxylic acid receptor 1,Condylura cristata,star-nosed mole,XM_004695933.2,XP_004695990.2,11606942,model,,default-seq
+101639124,HCAR1,hydroxycarboxylic acid receptor 1,Echinops telfairi,small Madagascar hedgehog,XM_004709724.1,XP_004709781.1,11606942,model,,default-seq
+101675001,HCAR1,hydroxycarboxylic acid receptor 1,Mustela putorius furo,domestic ferret,XM_004828342.2,XP_004828399.2,11606942,model,,default-seq
+101698581,Hcar1,hydroxycarboxylic acid receptor 1,Heterocephalus glaber,naked mole-rat,XM_021257573.1,XP_021113232.1,,model,,default-seq
+101827697,Hcar1,hydroxycarboxylic acid receptor 1,Mesocricetus auratus,golden hamster,NM_001310563.1,NP_001297492.1,11606942,curated,,default-seq
+101978119,Hcar1,hydroxycarboxylic acid receptor 1,Ictidomys tridecemlineatus,thirteen-lined ground squirrel,XM_005343026.2,XP_005343083.2,11606942,model,,default-seq
+102001029,Hcar1,hydroxycarboxylic acid receptor 1,Microtus ochrogaster,prairie vole,XM_005344400.3,XP_005344457.1,11606942,model,,default-seq
+102028194,Hcar1,hydroxycarboxylic acid receptor 1,Chinchilla lanigera,long-tailed chinchilla,XM_005403075.2,XP_005403132.2,11606942,model,,default-seq
+102147285,HCAR1,hydroxycarboxylic acid receptor 1,Macaca fascicularis,crab-eating macaque,XM_005572512.2,XP_005572569.1,11606942,model,,default-seq
+102188883,HCAR1,hydroxycarboxylic acid receptor 1,Capra hircus,goat,XM_018061329.1,XP_017916818.1,11606942,model,,default-seq
+102269482,HCAR1,hydroxycarboxylic acid receptor 1,Bos mutus,wild yak,XM_005911827.2,XP_005911889.2,11606942,model,,default-seq
+102321753,HCAR1,hydroxycarboxylic acid receptor 1,Pantholops hodgsonii,chiru,XM_005985762.1,XP_005985824.1,11606942,model,,default-seq
+102410663,HCAR1,hydroxycarboxylic acid receptor 1,Bubalus bubalis,water buffalo,XM_025267722.1,XP_025123507.1,11606942,model,,default-seq
+102429150,HCAR1,hydroxycarboxylic acid receptor 1,Myotis lucifugus,little brown bat,XM_023745056.1,XP_023600824.1,,model,,default-seq
+102481243,HCAR1,hydroxycarboxylic acid receptor 1,Tupaia chinensis,Chinese tree shrew,XM_014588102.2,XP_014443588.1,11606942,model,,default-seq
+102518981,HCAR1,hydroxycarboxylic acid receptor 1,Camelus ferus,Wild Bactrian camel,XM_006195843.2,XP_006195905.2,11606942,model,,default-seq
+102544691,HCAR1,hydroxycarboxylic acid receptor 1,Vicugna pacos,alpaca,XM_006220341.2,XP_006220403.2,11606942,model,,default-seq
+102732307,HCAR1,hydroxycarboxylic acid receptor 1,Leptonychotes weddellii,Weddell seal,XM_006752446.1,XP_006752509.1,11606942,model,,default-seq
+102838088,HCAR1,hydroxycarboxylic acid receptor 1,Chrysochloris asiatica,Cape golden mole,XM_006865484.1,XP_006865546.1,11606942,model,,default-seq
+102865839,HCAR1,hydroxycarboxylic acid receptor 1,Elephantulus edwardii,Cape elephant shrew,XM_006894700.1,XP_006894762.1,,model,,default-seq
+102879900,HCAR1,hydroxycarboxylic acid receptor 1,Pteropus alecto,black flying fox,XM_006927015.2,XP_006927077.2,11606942,model,,default-seq
+102901495,HCAR1,hydroxycarboxylic acid receptor 1,Felis catus,domestic cat,XM_006938419.3,XP_006938481.3,13341370,model,,default-seq
+102918420,Hcar1,hydroxycarboxylic acid receptor 1,Peromyscus maniculatus bairdii,prairie deer mouse,XM_006999075.2,XP_006999137.2,11606942,model,,default-seq
+102968946,HCAR1,hydroxycarboxylic acid receptor 1,Panthera tigris altaica,Amur tiger,XM_015536423.1,XP_015391909.1,11606942,model,,default-seq
+102975377,HCAR1,hydroxycarboxylic acid receptor 1,Physeter catodon,sperm whale,XM_007131038.3,XP_007131100.2,11606942,model,,default-seq
+103015912,HCAR1,hydroxycarboxylic acid receptor 1,Balaenoptera acutorostrata scammoni,,XM_007189590.1,XP_007189652.1,11606942,model,,default-seq
+103067277,HCAR1,hydroxycarboxylic acid receptor 1,Python bivittatus,Burmese python,XM_007441766.3,XP_007441828.1,11606583,model,,default-seq
+103075794,HCAR1,hydroxycarboxylic acid receptor 1,Lipotes vexillifer,Yangtze River dolphin,XM_007472205.1,XP_007472267.1,11606942,model,,default-seq
+103128873,HCAR1,hydroxycarboxylic acid receptor 1,Erinaceus europaeus,western European hedgehog,XM_007539798.2,XP_007539860.1,11606942,model,,default-seq
+103170160,HCAR1,hydroxycarboxylic acid receptor 1,Ornithorhynchus anatinus,platypus,XM_007666896.3,XP_007665086.2,,model,,default-seq
+103194821,HCAR1,hydroxycarboxylic acid receptor 1,Orycteropus afer afer,,XM_007938249.1,XP_007936440.1,11606942,model,,default-seq
+103239313,HCAR1,hydroxycarboxylic acid receptor 1,Chlorocebus sabaeus,green monkey,XM_008005062.1,XP_008003253.1,11606942,model,,default-seq
+103251776,HCAR1,hydroxycarboxylic acid receptor 1,Carlito syrichta,Philippine tarsier,XM_008050396.1,XP_008048587.1,11606942,model,,default-seq
+103287222,HCAR1,hydroxycarboxylic acid receptor 1,Eptesicus fuscus,big brown bat,XM_008142901.2,XP_008141123.1,11606942,model,,default-seq
+103549871,HCAR1,hydroxycarboxylic acid receptor 1,Equus przewalskii,Przewalski's horse,XM_008518469.1,XP_008516691.1,11606942,model,,default-seq
+103594484,HCAR1,hydroxycarboxylic acid receptor 1,Galeopterus variegatus,Sunda flying lemur,XM_008577706.1,XP_008575928.1,11606942,model,,default-seq
+103661147,HCAR1,hydroxycarboxylic acid receptor 1,Ursus maritimus,polar bear,XM_008688842.1,XP_008687064.1,11606942,model,,default-seq
+103739096,Hcar1,hydroxycarboxylic acid receptor 1,Nannospalax galili,Upper Galilee mountains blind mole rat,XM_008839408.2,XP_008837630.1,11606942,model,,default-seq
+103776673,HCAR1,hydroxycarboxylic acid receptor 1,Merops nubicus,carmine bee-eater,XM_008944191.1,XP_008942439.1,11606885,model,,default-seq
+103807064,HCAR1,hydroxycarboxylic acid receptor 1,Acanthisitta chloris,rifleman,XM_009079781.1,XP_009078029.1,11606885,model,,default-seq
+104666307,HCAR1,hydroxycarboxylic acid receptor 1,Rhinopithecus roxellana,golden snub-nosed monkey,XM_010368366.1,XP_010366668.1,11606942,model,,default-seq
+104848523,Hcar1,hydroxycarboxylic acid receptor 1,Fukomys damarensis,Damara mole-rat,XM_019204529.1,XP_019060074.1,,model,,default-seq
+104989591,HCAR1,hydroxycarboxylic acid receptor 1,Bison bison bison,,XM_010841312.1,XP_010839614.1,11606942,model,,default-seq
+105080649,HCAR1,hydroxycarboxylic acid receptor 1,Camelus bactrianus,Bactrian camel,XM_010969698.1,XP_010968000.1,11606942,model,,default-seq
+105102532,HCAR1,hydroxycarboxylic acid receptor 1,Camelus dromedarius,Arabian camel,XM_010995910.1,XP_010994212.1,11606942,model,,default-seq
+105289184,HCAR1,hydroxycarboxylic acid receptor 1,Pteropus vampyrus,large flying fox,XM_011355737.1,XP_011354039.1,11606942,model,,default-seq
+105494279,HCAR1,hydroxycarboxylic acid receptor 1,Macaca nemestrina,pig-tailed macaque,XM_011762566.2,XP_011760868.1,11606942,model,,default-seq
+105516316,HCAR1,hydroxycarboxylic acid receptor 1,Colobus angolensis palliatus,,XM_011948481.1,XP_011803871.1,11606942,model,,default-seq
+105527976,HCAR1,hydroxycarboxylic acid receptor 1,Mandrillus leucophaeus,drill,XM_011964508.1,XP_011819898.1,11606942,model,,default-seq
+105590988,HCAR1,hydroxycarboxylic acid receptor 1,Cercocebus atys,sooty mangabey,XM_012071277.1,XP_011926667.1,11606942,model,,default-seq
+105713409,HCAR1,hydroxycarboxylic acid receptor 1,Aotus nancymaae,Ma's night monkey,XM_012447105.1,XP_012302528.1,11606942,model,,default-seq
+105825603,HCAR1,hydroxycarboxylic acid receptor 1,Propithecus coquereli,Coquerel's sifaka,XM_012663442.1,XP_012518896.1,11606942,model,,default-seq
+105880884,HCAR1,hydroxycarboxylic acid receptor 1,Microcebus murinus,gray mouse lemur,XM_012782236.2,XP_012637690.1,11606942,model,,default-seq
+105990622,Hcar1,hydroxycarboxylic acid receptor 1,Dipodomys ordii,Ord's kangaroo rat,XM_013023063.1,XP_012878517.1,,model,,default-seq
+106727662,HCAR1,hydroxycarboxylic acid receptor 1,Myotis brandtii,Brandt's bat,XM_014547019.1,XP_014402505.1,,model,,default-seq
+106842317,HCAR1,hydroxycarboxylic acid receptor 1,Equus asinus,ass,XM_014858758.1,XP_014714244.1,11606942,model,,default-seq
+106967566,HCAR1,hydroxycarboxylic acid receptor 1,Acinonyx jubatus,cheetah,XM_015063800.2,XP_014919286.1,11606942,model,,default-seq
+107156365,Hcar1,hydroxycarboxylic acid receptor 1,Marmota marmota marmota,Alpine marmot,XM_015502391.1,XP_015357877.1,11606942,model,,default-seq
+107515221,HCAR1,hydroxycarboxylic acid receptor 1,Rousettus aegyptiacus,Egyptian rousette,XM_016153779.1,XP_016009265.1,11606942,model,,default-seq
+107541847,HCAR1,hydroxycarboxylic acid receptor 1,Miniopterus natalensis,,XM_016219029.1,XP_016074515.1,,model,,default-seq
+108315169,HCAR1,hydroxycarboxylic acid receptor 1,Cebus capucinus imitator,,XM_017544345.1,XP_017399834.1,11606942,model,,default-seq
+108390377,HCAR1,hydroxycarboxylic acid receptor 1,Manis javanica,Malayan pangolin,XM_017649299.1,XP_017504788.1,11606942,model,,default-seq
+108540087,HCAR1,hydroxycarboxylic acid receptor 1,Rhinopithecus bieti,black snub-nosed monkey,XM_017889074.1,XP_017744563.1,11606942,model,,default-seq
+109277718,HCAR1,hydroxycarboxylic acid receptor 1,Panthera pardus,leopard,XM_019467584.1,XP_019323129.1,11606942,model,,default-seq
+109386024,HCAR1,hydroxycarboxylic acid receptor 1,Hipposideros armiger,great roundleaf bat,XM_019648874.1,XP_019504419.1,11606942,model,,default-seq
+109571562,HCAR1,hydroxycarboxylic acid receptor 1,Bos indicus,zebu cattle,XM_019978108.1,XP_019833667.1,11606942,model,,default-seq
+109683519,Hcar1,hydroxycarboxylic acid receptor 1,Castor canadensis,American beaver,XM_020159406.1,XP_020014995.1,11606942,model,,default-seq
+110135024,HCAR1,hydroxycarboxylic acid receptor 1,Odocoileus virginianus texanus,,XM_020889824.1,XP_020745483.1,11606942,model,,default-seq
+110196863,HCAR1,hydroxycarboxylic acid receptor 1,Phascolarctos cinereus,koala,XM_020970299.1,XP_020825958.1,11606942,model,,default-seq
+110295319,Hcar1,hydroxycarboxylic acid receptor 1,Mus caroli,Ryukyu mouse,XM_021163836.1,XP_021019495.1,11606942,model,,default-seq
+110313067,Hcar1,hydroxycarboxylic acid receptor 1,Mus pahari,shrew mouse,XM_021187096.1,XP_021042755.1,11606942,model,,default-seq
+110558049,Hcar1,hydroxycarboxylic acid receptor 1,Meriones unguiculatus,Mongolian gerbil,XM_021652772.1,XP_021508447.1,11606942,model,,default-seq
+110588336,HCAR1,hydroxycarboxylic acid receptor 1,Neomonachus schauinslandi,Hawaiian monk seal,XM_021698669.1,XP_021554344.1,11606942,model,,default-seq
+111156529,LOC111156529,hydroxycarboxylic acid receptor 1,Enhydra lutris kenyoni,,XM_022517485.1,XP_022373193.1,11606942,model,,default-seq
+111543464,HCAR1,hydroxycarboxylic acid receptor 1,Piliocolobus tephrosceles,Ugandan red Colobus,XM_023213465.2,XP_023069233.1,11606942,model,,default-seq
+112310869,HCAR1,hydroxycarboxylic acid receptor 1,Desmodus rotundus,common vampire bat,XM_024567181.1,XP_024422949.1,,model,,default-seq
+112408810,HCAR1,hydroxycarboxylic acid receptor 1,Neophocaena asiaeorientalis asiaeorientalis,Yangtze finless porpoise,XM_024758632.1,XP_024614400.1,11606942,model,,default-seq
+112635090,HCAR1,hydroxycarboxylic acid receptor 1,Theropithecus gelada,gelada,XM_025402973.1,XP_025258758.1,11606942,model,,default-seq
+112676486,HCAR1,hydroxycarboxylic acid receptor 1,Canis lupus dingo,dingo,XM_025473771.1,XP_025329556.1,11606942,model,,default-seq
+112837360,HCAR1,hydroxycarboxylic acid receptor 1,Callorhinus ursinus,northern fur seal,XM_025889572.1,XP_025745357.1,11606942,model,,default-seq
+112870313,HCAR1,hydroxycarboxylic acid receptor 1,Puma concolor,puma,XM_025933458.1,XP_025789243.1,11606942,model,,default-seq
+112933857,HCAR1,hydroxycarboxylic acid receptor 1,Vulpes vulpes,red fox,XM_026017148.1,XP_025872933.1,11606942,model,,default-seq
+113192784,Hcar1,hydroxycarboxylic acid receptor 1,Urocitellus parryii,Arctic ground squirrel,XM_026403011.1,XP_026258796.1,11606942,model,,default-seq
+113266918,HCAR1,hydroxycarboxylic acid receptor 1,Ursus arctos horribilis,,XM_026514795.1,XP_026370580.1,11606942,model,,default-seq
+113629927,HCAR1,hydroxycarboxylic acid receptor 1,Lagenorhynchus obliquidens,Pacific white-sided dolphin,XM_027124937.1,XP_026980738.1,11606942,model,,default-seq
+113907571,HCAR1,hydroxycarboxylic acid receptor 1,Bos indicus x Bos taurus,hybrid cattle,XM_027566917.1,XP_027422718.1,11606942,model,,default-seq
+113912242,HCAR1,hydroxycarboxylic acid receptor 1,Zalophus californianus,California sea lion,XM_027575157.1,XP_027430958.1,11606942,model,,default-seq
+114036840,HCAR1,hydroxycarboxylic acid receptor 1,Vombatus ursinus,common wombat,XM_027853560.1,XP_027709361.1,,model,,default-seq
+114079894,Hcar1,hydroxycarboxylic acid receptor 1,Marmota flaviventris,yellow-bellied marmot,XM_027921365.1,XP_027777166.1,11606942,model,,default-seq
+114200351,HCAR1,hydroxycarboxylic acid receptor 1,Eumetopias jubatus,Steller sea lion,XM_028092404.1,XP_027948205.1,11606942,model,,default-seq
+114509822,HCAR1,hydroxycarboxylic acid receptor 1,Phyllostomus discolor,pale spear-nosed bat,XM_028528370.1,XP_028384171.1,11606942,model,,default-seq
+114620114,Hcar1,hydroxycarboxylic acid receptor 1,Grammomys surdaster,,XM_028766134.1,XP_028621967.1,11606942,model,,default-seq
+114704503,Hcar1,hydroxycarboxylic acid receptor 1,Peromyscus leucopus,white-footed mouse,XM_028885767.1,XP_028741600.1,11606942,model,,default-seq
+114899366,HCAR1,hydroxycarboxylic acid receptor 1,Monodon monoceros,narwhal,XM_029230024.1,XP_029085857.1,,model,,default-seq

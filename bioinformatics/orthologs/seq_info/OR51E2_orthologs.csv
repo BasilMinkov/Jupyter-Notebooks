@@ -1,0 +1,42 @@
+Gene ID,Gene symbol,Description,Scientific name,Common name,RefSeq Transcript accessions,RefSeq Protein accessions,SPARCLE ID,Curation Status,RefseqSelect,Default sequence
+81285,OR51E2,olfactory receptor family 51 subfamily E member 2,Homo sapiens,human,NM_030774.4,NP_110401.1,11607012,curated,RefseqSelect,default-seq
+100328820,OR51E2,"olfactory receptor, family 51, subfamily E, member 2",Oryctolagus cuniculus,rabbit,NM_001171425.1,NP_001164896.1,11607012,curated,,default-seq
+100552892,LOC100552892,olfactory receptor 51E2,Anolis carolinensis,green anole,XM_008123799.1,XP_008122006.1,11607012,model,,default-seq
+100605478,LOC100605478,olfactory receptor 51E2,Nomascus leucogenys,northern white-cheeked gibbon,XM_004090647.2,XP_004090695.1,11607012,model,,default-seq
+100723145,LOC100723145,olfactory receptor 51E2,Cavia porcellus,domestic guinea pig,XM_023562223.1,XP_023417991.1,11607012,model,,default-seq
+100856052,LOC100856052,olfactory receptor 51E2,Canis lupus familiaris,dog,XM_005633583.3,XP_005633640.1,11607012,model,,default-seq
+100976603,LOC100976603,olfactory receptor 51E2,Pan paniscus,pygmy chimpanzee,XM_003804647.1,XP_003804695.1,11607012,model,,default-seq
+101013532,LOC101013532,olfactory receptor 51E2,Papio anubis,olive baboon,XM_021926204.1,XP_021781896.1,11607012,model,,default-seq
+101041921,LOC101041921,olfactory receptor 51E2,Saimiri boliviensis,Bolivian squirrel monkey,XM_003923383.2,XP_003923432.1,11607012,model,,default-seq
+101100330,LOC101100330,olfactory receptor 51E2,Felis catus,domestic cat,XM_023239490.1,XP_023095258.1,11607012,model,,default-seq
+101136323,LOC101136323,olfactory receptor 51E2,Gorilla gorilla,western gorilla,XM_004050516.2,XP_004050564.1,11607012,model,,default-seq
+101364218,LOC101364218,olfactory receptor 51E2,Odobenus rosmarus divergens,Pacific walrus,XM_004407549.2,XP_004407606.1,11607012,model,,default-seq
+101526906,LOC101526906,olfactory receptor 51E2,Ochotona princeps,American pika,XM_004589950.1,XP_004590007.1,11607012,model,,default-seq
+101551601,LOC101551601,olfactory receptor 51E2,Sorex araneus,European shrew,XM_004618227.1,XP_004618284.1,11607012,model,,default-seq
+101600883,LOC101600883,olfactory receptor 51E2,Jaculus jaculus,lesser Egyptian jerboa,XM_004650969.1,XP_004651026.1,11607012,model,,default-seq
+101632414,LOC101632414,olfactory receptor 51E2,Condylura cristata,star-nosed mole,XM_004683143.1,XP_004683200.1,11607012,model,,default-seq
+101644971,LOC101644971,olfactory receptor 51E2,Echinops telfairi,small Madagascar hedgehog,XM_004717482.1,XP_004717539.1,11607012,model,,default-seq
+102265311,LOC102265311,olfactory receptor 51E2,Bos mutus,wild yak,XM_005911343.1,XP_005911405.1,11607012,model,,default-seq
+102332725,LOC102332725,olfactory receptor 51E2-like,Pantholops hodgsonii,chiru,XM_005983946.1,XP_005984008.1,11607012,model,,default-seq
+102735657,LOC102735657,olfactory receptor 51E2-like,Leptonychotes weddellii,Weddell seal,XM_006732241.1,XP_006732304.1,11607012,model,,default-seq
+102864689,LOC102864689,olfactory receptor 51E2-like,Elephantulus edwardii,Cape elephant shrew,XM_006885524.1,XP_006885586.1,11607012,model,,default-seq
+103074994,LOC103074994,olfactory receptor 51E2-like,Lipotes vexillifer,Yangtze River dolphin,XM_007456521.1,XP_007456583.1,11607012,model,,default-seq
+103197135,LOC103197135,olfactory receptor 51E2,Orycteropus afer afer,,XM_007941015.1,XP_007939206.1,11607012,model,,default-seq
+103247947,LOC103247947,olfactory receptor 51E2,Chlorocebus sabaeus,green monkey,XM_008019934.1,XP_008018125.1,11607012,model,,default-seq
+103553829,LOC103553829,olfactory receptor 51E2,Equus przewalskii,Przewalski's horse,XM_008524560.1,XP_008522782.1,11607012,model,,default-seq
+103681159,LOC103681159,olfactory receptor 51E2,Ursus maritimus,polar bear,XM_008710688.1,XP_008708910.1,11607012,model,,default-seq
+104665192,LOC104665192,olfactory receptor 51E2,Rhinopithecus roxellana,golden snub-nosed monkey,XM_010366963.1,XP_010365265.1,11607012,model,,default-seq
+104989994,LOC104989994,olfactory receptor 51E2,Bison bison bison,,XM_010841876.1,XP_010840178.1,11607012,model,,default-seq
+105067207,LOC105067207,olfactory receptor 51E2,Camelus bactrianus,Bactrian camel,XM_010952682.1,XP_010950984.1,11607012,model,,default-seq
+105098059,LOC105098059,olfactory receptor 51E2,Camelus dromedarius,Arabian camel,XM_010990679.1,XP_010988981.1,11607012,model,,default-seq
+105527325,LOC105527325,olfactory receptor 51E2,Colobus angolensis palliatus,,XM_011963622.1,XP_011819012.1,11607012,model,,default-seq
+105542928,LOC105542928,olfactory receptor 51E2,Mandrillus leucophaeus,drill,XM_011984644.1,XP_011840034.1,11607012,model,,default-seq
+105578837,LOC105578837,olfactory receptor 51E2,Cercocebus atys,sooty mangabey,XM_012045119.1,XP_011900509.1,11607012,model,,default-seq
+105720346,LOC105720346,olfactory receptor 51E2,Aotus nancymaae,Ma's night monkey,XM_012456814.1,XP_012312237.1,11607012,model,,default-seq
+105811426,LOC105811426,olfactory receptor 51E2,Propithecus coquereli,Coquerel's sifaka,XM_012645620.1,XP_012501074.1,11607012,model,,default-seq
+105984004,LOC105984004,olfactory receptor 51E2,Dipodomys ordii,Ord's kangaroo rat,XM_013014048.1,XP_012869502.1,11607012,model,,default-seq
+106966076,LOC106966076,olfactory receptor 51E2,Acinonyx jubatus,cheetah,XM_015062152.2,XP_014917638.2,11607012,model,,default-seq
+111540703,LOC111540703,olfactory receptor 51E2,Piliocolobus tephrosceles,Ugandan red Colobus,XM_023209144.1,XP_023064912.1,11607012,model,,default-seq
+112441490,LOC112441490,olfactory receptor 51E2,Bos taurus,cattle,XM_024975845.1,XP_024831613.1,11607012,model,,default-seq
+113981544,LOC113981544,olfactory receptor 51E2,Neopelma chrysocephalum,saffron-crested tyrant-manakin,XM_027708954.1,XP_027564755.1,,model,,default-seq
+114500378,LOC114500378,olfactory receptor 51E2,Phyllostomus discolor,pale spear-nosed bat,XM_028517050.1,XP_028372851.1,11607012,model,,default-seq
