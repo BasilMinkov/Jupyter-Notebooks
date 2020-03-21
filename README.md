@@ -16,15 +16,17 @@ Test of my implementation of cubic spline interpolation numerical method. This m
  
 ### - EulerMethod
  
-Test of my implementation of Euler numerical method.
+Test of my implementation of Euler numerical method. 
  
 ### - TrapeziumMethod
  
 Test of my implementation of numerical integration Trapezium method.
  
 ### - ViterbiAlgorithm
+
+## 2. bioinformatics
  
-## 2. neuroscience
+## 3. neuroscience
 
 ### - [NeurofeedbackEvents](https://github.com/BasilMinkov/Jupyter-Notebooks/blob/master/neuroscience/NeurofeedbackEvents.ipynb) 
  
@@ -34,8 +36,17 @@ Test of my implementation of numerical integration Trapezium method.
 ### - [SpikingNeuronsInH2O2](https://github.com/BasilMinkov/Jupyter-Notebooks/blob/master/neuroscience/SpikingNeuronsInH2O2.ipynb)
 ### - [HamsterWithoutTorpor](https://github.com/BasilMinkov/Jupyter-Notebooks/blob/master/neuroscience/HamsterWithoutTorpor.ipynb)
  
-## 3. statistics
+## 4. statistics
 
 ### - MuSigmaEstimation
 ### - ProjectStatistics1
 ### - ProjectStatistics2
+
+## 5. statistics_homeworks
+
+### - MuSigmaEstimation
+### - ProjectStatistics1
+### - ProjectStatistics2
+
+## 5. system_biology
+
